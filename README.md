@@ -12,6 +12,7 @@ An automated data extraction, cleaning, and SQL aggregation pipeline built with 
 ## File Structure
 ```text
 automated-sql-python-etl-pipeline/
+├── .gitignore
 ├── README.md
 ├── etl_pipeline.py
 ├── monthly_kpi_summary.csv
