@@ -1,0 +1,16 @@
+reporting_month,region,active_customers,total_transactions,gross_revenue,avg_transaction_value
+2026-01,Kochi,92,182,12150,66.76
+2026-01,Trivandrum,74,121,8450,69.83
+2026-01,Calicut,65,98,6200,63.27
+2026-01,Hyderabad,48,72,4950,68.75
+2026-01,Unassigned,18,24,1400,58.33
+2026-02,Kochi,88,165,11200,67.88
+2026-02,Trivandrum,71,115,7900,68.7
+2026-02,Calicut,61,92,5800,63.04
+2026-02,Hyderabad,44,68,4600,67.65
+2026-02,Unassigned,15,20,1150,57.5
+2026-03,Kochi,90,175,11800,67.43
+2026-03,Trivandrum,73,118,8100,68.64
+2026-03,Calicut,63,95,6000,63.16
+2026-03,Hyderabad,46,70,4800,68.57
+2026-03,Unassigned,16,22,1250,56.82
