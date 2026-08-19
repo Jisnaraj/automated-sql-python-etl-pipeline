@@ -16,4 +16,5 @@ automated-sql-python-etl-pipeline/
 ├── README.md
 ├── etl_pipeline.py
 ├── monthly_kpi_summary.csv
+├── output_screenshot.png
 └── requirements.txt
