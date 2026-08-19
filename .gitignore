@@ -1,0 +1,17 @@
+# Python environment & cache
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+
+# Generated database files
+*.db
+*.sqlite3
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE configuration
+.vscode/
+.idea/
